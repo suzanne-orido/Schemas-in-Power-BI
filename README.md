@@ -54,6 +54,9 @@ How it works
 The fact table stores business events. Dimension tables provide descriptive context. Filters flow from dimensions to the fact, ensuring correct aggregation and predictable results.
 Usually, fact tables represent the "many" aspect of a relationship, while dimension tables represent the "one" aspect.
 
+<img width="800" height="546" alt="image" src="https://github.com/user-attachments/assets/233b890b-7579-4d09-8df0-fa0106786874" />
+
+
  
 
 Understanding Snowflake Schema
@@ -76,6 +79,7 @@ It requires more joins.
 It may slow down performance
 Snowflake schemas are storage-efficient. Star schemas are analytics-efficient.
 
+![Uploading image.png…]()
  
 
 The importance of good data modelling
