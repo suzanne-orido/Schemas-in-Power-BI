@@ -79,7 +79,8 @@ It requires more joins.
 It may slow down performance
 Snowflake schemas are storage-efficient. Star schemas are analytics-efficient.
 
-![Uploading image.png…]()
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/b8054397-0c39-4d66-976c-d3ff76a18927" />
+
  
 
 The importance of good data modelling
